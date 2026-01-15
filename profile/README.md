@@ -8,3 +8,9 @@ Project Participants:
   - [Florian Schmidt](https://github.com/Schmidii99)
   - Joshua Bedford
   - Azat Oezden
+
+- [AssessmentCollisionDetector](https://github.com/HFT-Projects/AssessmentCollisionDetector)
+  - [Johannes Kerger](https://github.com/JohannesK71083)
+  - Joshua Bedford
+  - Azat Oezden
+  - Razvan Grumaz
