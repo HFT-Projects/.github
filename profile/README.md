@@ -6,11 +6,11 @@ Project Participants:
 - [UltimateTicTacToe-NN](https://github.com/HFT-Projects/UltimateTicTacToe-NN)
   - [Johannes Kerger](https://github.com/JohannesK71083)
   - [Florian Schmidt](https://github.com/Schmidii99)
-  - Joshua Bedford
-  - Azat Oezden
+  - [Joshua Bedford](https://github.com/JoshuaMBedford)
+  - [Azat Oezden](https://github.com/42oeaz1bif)
 
 - [AssessmentCollisionDetector](https://github.com/HFT-Projects/AssessmentCollisionDetector)
   - [Johannes Kerger](https://github.com/JohannesK71083)
-  - Joshua Bedford
-  - Azat Oezden
+  - [Joshua Bedford](https://github.com/JoshuaMBedford)
+  - [Azat Oezden](https://github.com/42oeaz1bif)
   - [Razvan Grumaz](https://github.com/rgrumaz)
