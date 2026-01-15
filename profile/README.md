@@ -13,4 +13,4 @@ Project Participants:
   - [Johannes Kerger](https://github.com/JohannesK71083)
   - Joshua Bedford
   - Azat Oezden
-  - Razvan Grumaz
+  - [Razvan Grumaz](https://github.com/rgrumaz)
